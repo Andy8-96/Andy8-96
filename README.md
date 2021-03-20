@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Java, SQL, PHP and Web Technologies.
 - 👯 I’m looking to do an internship.
 - 🥅 2021 goals: Learn how to code web applications.
-- ⚡ Fun fact: I started coding because I wanted to develop videogames. Then I learned augmented reality.
 - 💬 Ask me about Web Technologies, PHP, Java and SQL.
 - 📫 How to reach me: Check out next section.
 
