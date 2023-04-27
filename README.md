@@ -2,11 +2,10 @@
 
 ## I'm a student from La Rioja learning how to code web applications.
 
-- 🔭 I’m currently studying at Colegio Sagrado Corazón (Jesuitas).
-- 🌱 I’m currently learning Java, SQL, PHP and Web Technologies.
-- 👯 I’m looking to do an internship.
-- 🥅 2021 goals: Learn how to code web applications.
-- 💬 Ask me about Web Technologies, PHP, Java and SQL.
+- 🔭 I studied at Colegio Sagrado Corazón (Jesuitas).
+- 🌱 I am currently working with Javascript, ReactJS, NextJS and TailwindCSS.
+- 🥅 2023 goals: Learn how to code web applications.
+- 💬 Ask me about Web Technologies, Javascript, Typescript, React and more.
 - 📫 How to reach me: Check out next section.
 
 ## 💬 Contact
