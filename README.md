@@ -1,6 +1,6 @@
 # Hi there. I'm Andrea - aka @Andy8-96.
 
-## I'm a student from La Rioja learning how to code web applications.
+## I'm a Frontend Developer from La Rioja.
 
 - 🔭 I studied at Colegio Sagrado Corazón (Jesuitas).
 - 🌱 I am currently working with Javascript, ReactJS, NextJS and TailwindCSS.
